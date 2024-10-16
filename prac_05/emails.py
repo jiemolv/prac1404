@@ -1,4 +1,3 @@
-
 def extract_name(email):
     name = email.split('@')[0]
     return ' '.join(name.split('.')).title()
