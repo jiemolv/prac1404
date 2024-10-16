@@ -1,4 +1,3 @@
-
 COLORS = {
     "ALICEBLUE": "#F0F8FF",
     "ANTIQUEWHITE": "#FAEBD7",

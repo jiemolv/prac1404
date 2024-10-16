@@ -1,5 +1,3 @@
-
-
 def count_word_occurrences(text):
     words = text.split()
     word_count = {}
